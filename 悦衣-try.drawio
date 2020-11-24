@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T16:21:41.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="zW0IQC-B0ecDqVwStkL9" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T17:16:06.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="wNUSygDVwdovWqbsi1Et" version="13.10.2" type="github">
   <diagram id="MuC8RMN6e0P3FX-N_4Tj" name="第 1 页">
-    <mxGraphModel dx="1230" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2050" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,8 +69,16 @@
         <mxCell id="Vh_X4G9FNwUcRHzvs0tG-28" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="520" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Vh_X4G9FNwUcRHzvs0tG-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vh_X4G9FNwUcRHzvs0tG-29" target="Vh_X4G9FNwUcRHzvs0tG-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Vh_X4G9FNwUcRHzvs0tG-29" value="分配试衣间，展示试衣间号码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="" id="Vh_X4G9FNwUcRHzvs0tG-34">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vh_X4G9FNwUcRHzvs0tG-6" target="Vh_X4G9FNwUcRHzvs0tG-8">
@@ -161,7 +169,7 @@
         <mxCell id="Vh_X4G9FNwUcRHzvs0tG-76" value="短信通知用户试衣间号" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vh_X4G9FNwUcRHzvs0tG-78" value="用户使用试衣间pad" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Vh_X4G9FNwUcRHzvs0tG-78" value="用户进入试衣间，使用试衣间pad" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
